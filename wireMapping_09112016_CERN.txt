@@ -1,0 +1,31 @@
+# attenuator mapping starting from top-left element, moving down each
+# column, then moving to the next column to the right
+# empty lines/white space is meaningful!
+# (it means an element is not hooked up!) 
+# comment lines starting with a # are not considered
+# second column in the text file is an attenuator value
+13
+7
+6
+
+
+23
+22
+5
+
+
+25
+18
+17
+21
+31
+
+
+26
+19
+20
+30
+
+27
+28
+29

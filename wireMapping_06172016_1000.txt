@@ -1,0 +1,30 @@
+# wire mapping starting from top-left element, moving down each
+# column, then moving to the next column to the right
+# empty lines/white space is meaningful!
+# (it means an element is not hooked up!)
+# comment lines starting with a # are not considered
+
+29
+16
+24
+
+6
+5
+15
+21
+25
+7
+31
+34
+30
+14
+22
+28
+3
+11
+4
+13
+23
+20
+19
+12
